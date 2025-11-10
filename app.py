@@ -294,7 +294,7 @@ st.markdown("---")
 st.markdown("""
 <div style='text-align: center; color: #666;'>
     <p><b>Instituto Superior Tecnológico del Azuay</b></p>
-    <p>Asignatura: Inteligencia Artificial | Ciclo: M4A | Período: 2025-I</p>
+    <p>Asignatura: Inteligencia Artificial | Ciclo: M6A | Período: 2025-I</p>
     <p>Docente: Mgtr. Verónica Paulina Chimbo Coronel</p>
 </div>
 """, unsafe_allow_html=True)
